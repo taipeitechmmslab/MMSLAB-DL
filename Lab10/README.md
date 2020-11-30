@@ -1,7 +1,6 @@
 # Lab 10: Variational Auto-Encoder
 ## Requirements: 
 - TensorFlow >= 2.0
-- TensorFlow-GPU == 2.3.1
 - TensorFlow Datasets == 4.1.0
 
 ## Training VAE 
