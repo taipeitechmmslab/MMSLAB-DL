@@ -1,6 +1,6 @@
 # Lab 12: Object detection (YOLO-V3)
 
-##Usage
+## Usage
 - Requirements
     - [Numpy](http://www.numpy.org/)
     
