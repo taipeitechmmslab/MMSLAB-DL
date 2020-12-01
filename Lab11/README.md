@@ -13,9 +13,6 @@ train.py
 - Iteration 1000
 ![iter 1000](image_results/iter_1000.JPG)
 
-- Iteration 10900
-![iter 10900](image_results/iter_10900.JPG)
-
 - Iteration 15800
 ![iter 15800](image_results/iter_15800.JPG)
 
