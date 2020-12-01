@@ -18,9 +18,9 @@
 -  Download the trained model weights of the original YOLO-v3:
     - Method 1: Create folder "model_data" and go to the link: https://pjreddie.com/media/files/yolov3.weights to download trained YOLO-V3 model
     - Method 2: Runing the command
-```bash
-wget https://pjreddie.com/media/files/yolov3.weights -O model_data/yolov3.weights
-```
+    ```bash
+    wget https://pjreddie.com/media/files/yolov3.weights -O model_data/yolov3.weights
+    ```
 
 - Converting pre-trained model
     ```bash
