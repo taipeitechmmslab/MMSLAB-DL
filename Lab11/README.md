@@ -1,17 +1,13 @@
-# Lab 10: Variational Auto-Encoder
+# Lab 11: Generative Adversarial Network
 ## Requirements: 
 - TensorFlow >= 2.0
-- TensorFlow-GPU == 2.3.1
-- TensorFlow Datasets == 4.1.0
+- TensorFlow Datasets
 
-## Training VAE 
-train_vae.py
+## Training GAN 
+train.py
 
-## Test VAE
-test_vae.py
-
-## Results
-- Epoch 01
+## Image Results
+- Iteration 100
 ![Epoch 1](image_results/e1.JPG)
 
 - Epoch 10
