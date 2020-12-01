@@ -2,13 +2,14 @@
 
 ## Usage
 - Requirements
-    - [Numpy](http://www.numpy.org/)
-    
-    - [OpenCV](https://opencv.org/)
     
     - [Matplotlib](https://matplotlib.org/)
     
     - [TensorFlow >= 2.0](https://www.tensorflow.org/versions/r2.0/api_docs/python/tf)
+    
+    - [Numpy](http://www.numpy.org/)
+    
+    - [OpenCV](https://opencv.org/)
     
     - [TensorFlow Datasets](https://www.tensorflow.org/datasets/)
     
