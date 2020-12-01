@@ -1,7 +1,7 @@
 # Lab 12: Object detection (YOLO-V3)
 
-
-## Requirements
+##Usage
+- Requirements
     - [Numpy](http://www.numpy.org/)
     
     - [OpenCV](https://opencv.org/)
@@ -14,9 +14,9 @@
     
     - [TensorFlow addons](https://github.com/tensorflow/addons)
     
-## Download the trained model weights of the original YOLO-v3:
-- Method 1: Create folder "model_data" and go to the link: https://pjreddie.com/media/files/yolov3.weights to download trained YOLO-V3 model
-- Method 2: Runing the command
+-  Download the trained model weights of the original YOLO-v3:
+    - Method 1: Create folder "model_data" and go to the link: https://pjreddie.com/media/files/yolov3.weights to download trained YOLO-V3 model
+    - Method 2: Runing the command
 ```bash
 wget https://pjreddie.com/media/files/yolov3.weights -O model_data/yolov3.weights
 ```
