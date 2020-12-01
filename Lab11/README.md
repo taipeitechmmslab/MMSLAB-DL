@@ -22,7 +22,7 @@ train.py
 ## TensorBoard
 - Open log files ("logs_wgan_gp" is in  C:\Users\hieu>)
 ```bash
-tensorboard --logdir logs_vae
+tensorboard --logdir logs_wgan_gp
 ```
 ![TensorBoad](image_results/run.JPG)
 
