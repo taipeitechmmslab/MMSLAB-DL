@@ -8,28 +8,29 @@ train.py
 
 ## Image Results
 - Iteration 100
-![Epoch 1](image_results/e1.JPG)
+![iter 100](image_results/iter_100.JPG)
 
-- Epoch 10
-![Epoch 10](image_results/e10.JPG)
+- Iteration 1000
+![iter 1000](image_results/iter_1000.JPG)
 
-- Epoch 19
-![Epoch 19](image_results/e19.JPG)
+- Iteration 10900
+![iter 10900](image_results/iter_10900.JPG)
+
+- Iteration 15800
+![iter 15800](image_results/iter_15800.JPG)
 
 ## TensorBoard
-- Open log files ("logs_vae" is in  C:\Users\hieu>)
+- Open log files ("logs_wgan_gp" is in  C:\Users\hieu>)
 ```bash
 tensorboard --logdir logs_vae
 ```
-![TensorBoad](image_results/rr.JPG)
+![TensorBoad](image_results/run.JPG)
 
 Go to the link http://localhost:6006/ to see the resutl on TensorBoard:
-- Training result
-![TensorBoad](image_results/train.JPG)
 - Image result
-![TensorBoad](image_results/tfboard.JPG)
+![TensorBoad](image_results/Tensorboard.JPG)
 
 ## References: 
-- VAE paper: https://arxiv.org/abs/1312.6114
+- WGAN-GP paper: https://proceedings.neurips.cc/paper/2017/file/892c3b1c6dccd52936e27cbd0ff683d6-Paper.pdf
 - https://github.com/KUASWoodyLIN/TF2-WGAN
 
