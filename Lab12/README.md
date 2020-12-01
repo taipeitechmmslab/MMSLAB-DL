@@ -1,12 +1,7 @@
-# TensorFlow 2.0 YOLO-V3
-
-這個專案實現了TensorFlow2.0 YOLO-V3物件偵測。
+# Lab 12: Object detection (YOLO-V3)
 
 
-
-## Usage
-
-- Requirements
+## Requirements
     - [Numpy](http://www.numpy.org/)
     
     - [OpenCV](https://opencv.org/)
@@ -18,35 +13,40 @@
     - [TensorFlow Datasets](https://www.tensorflow.org/datasets/)
     
     - [TensorFlow addons](https://github.com/tensorflow/addons)
+    
+## Download the trained model weights of the original YOLO-v3:
+- Method 1: Create folder "model_data" and go to the link: https://pjreddie.com/media/files/yolov3.weights to download trained YOLO-V3 model
+- Method 2: Runing the command
+```bash
+wget https://pjreddie.com/media/files/yolov3.weights -O model_data/yolov3.weights
+```
 
-- DarkNet weights 轉換到 TensorFlow weights
+- Converting pre-trained model
     ```bash
     python convert.py
     ```
 
-- YOLO-V3訓練
+- Training YOLO-V3 model
     ```bash
     python train.py
     ```
 
-- YOLO-V3多尺度訓練(multi scale training)
+- Training YOLO-V3(multi scale training)
     ```bash
     python train-multi-scale.py
     ```
 
-- YOLO-V3測試
+- Test YOLO-V3
     ```bash
     python test.py
     ```
 
-
-
-- TensorBoard觀察訓練紀錄
+- TensorBoard
     ```bash
     tensorboard --logdir logs_yolo
     ```
 
-## Results
+## Image Results
 
 Predict by YOLO v3 original weights
 
@@ -54,11 +54,6 @@ Predict by YOLO v3 original weights
 ## References
 
 - https://github.com/pjreddie/darknet
-	- YOLO-V3原作者程式碼(DarkNet)
 - https://github.com/qqwweee/keras-yolo3
-	- 網路模型
 - https://github.com/zzh8829/yolov3-tf2
-	- 損失函數
-	- 資料預處理
 - https://github.com/allanzelener/YAD2K
-	- DarkNet到Keras網路模型轉換
