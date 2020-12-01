@@ -47,7 +47,7 @@
     tensorboard --logdir logs_yolo
     ```
 
-- Image Results
+- Prediction Results
 
 
 ![Results](https://raw.githubusercontent.com/KUASWoodyLIN/TF2-Yolo3/master/output_images/output_results.png)
