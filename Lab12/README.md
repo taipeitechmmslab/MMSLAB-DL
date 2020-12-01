@@ -46,14 +46,14 @@ wget https://pjreddie.com/media/files/yolov3.weights -O model_data/yolov3.weight
     tensorboard --logdir logs_yolo
     ```
 
-## Image Results
+- Image Results
 
 Predict by YOLO v3 original weights
 
 ![100 Iteratives](https://raw.githubusercontent.com/KUASWoodyLIN/TF2-Yolo3/master/output_images/output_results.png)
-## References
+- References
 
-- https://github.com/pjreddie/darknet
-- https://github.com/qqwweee/keras-yolo3
-- https://github.com/zzh8829/yolov3-tf2
-- https://github.com/allanzelener/YAD2K
+    - https://github.com/pjreddie/darknet
+    - https://github.com/qqwweee/keras-yolo3
+    - https://github.com/zzh8829/yolov3-tf2
+    - https://github.com/allanzelener/YAD2K
