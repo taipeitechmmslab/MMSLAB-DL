@@ -39,7 +39,7 @@
 
 ![Results](output_images/output_results.png)
 - References
-
+    - https://arxiv.org/pdf/1804.02767.pdf
     - https://github.com/pjreddie/darknet
     - https://github.com/qqwweee/keras-yolo3
     - https://github.com/zzh8829/yolov3-tf2
