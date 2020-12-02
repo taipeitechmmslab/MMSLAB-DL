@@ -1,9 +1,9 @@
 ## Lab 10: Variational Auto-Encoder
 - Training VAE 
-  - train_vae.py
+  - train.py
 
 - Test VAE
-  - test_vae.py
+  - test.py
 
 -  Results
   - Epoch 01
