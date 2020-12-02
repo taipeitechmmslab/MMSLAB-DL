@@ -1,4 +1,6 @@
-## Lab 12: Object detection (YOLO-V3)
+# Lab 12: Object detection (YOLO-V3)
+
+## Usage
   
 -  Download the trained model weights of the original YOLO-v3:
     - Method 1: Create folder "model_data" and go to the link: https://pjreddie.com/media/files/yolov3.weights to download trained YOLO-V3 model
@@ -35,7 +37,7 @@
 - Prediction Results
 
 
-![Results](output_images/output_results)
+![Results](output_images/output_results.png)
 - References
 
     - https://github.com/pjreddie/darknet
