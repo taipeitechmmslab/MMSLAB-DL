@@ -1,20 +1,5 @@
-# Lab 12: Object detection (YOLO-V3)
-
-## Usage
-- Requirements
-    
-    - [Matplotlib](https://matplotlib.org/)
-    
-    - [TensorFlow >= 2.0](https://www.tensorflow.org/versions/r2.0/api_docs/python/tf)
-    
-    - [Numpy](http://www.numpy.org/)
-    
-    - [OpenCV](https://opencv.org/)
-    
-    - [TensorFlow Datasets](https://www.tensorflow.org/datasets/)
-    
-    - [TensorFlow addons](https://github.com/tensorflow/addons)
-    
+## Lab 12: Object detection (YOLO-V3)
+  
 -  Download the trained model weights of the original YOLO-v3:
     - Method 1: Create folder "model_data" and go to the link: https://pjreddie.com/media/files/yolov3.weights to download trained YOLO-V3 model
     - Method 2: Runing the command
