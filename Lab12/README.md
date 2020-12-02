@@ -35,10 +35,11 @@
 - Prediction Results
 
 
-![Results](https://raw.githubusercontent.com/KUASWoodyLIN/TF2-Yolo3/master/output_images/output_results.png)
+![Results](output_images/output_results)
 - References
 
     - https://github.com/pjreddie/darknet
     - https://github.com/qqwweee/keras-yolo3
     - https://github.com/zzh8829/yolov3-tf2
     - https://github.com/allanzelener/YAD2K
+    - https://github.com/KUASWoodyLIN/TF2-Yolo3
