@@ -8,7 +8,7 @@
 - Test VAE
   - test.py
 
--  Results
+-  Image Results
   - Epoch 01
   ![Epoch 1](image_results/e1.JPG)
 
