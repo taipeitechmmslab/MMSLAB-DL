@@ -24,6 +24,6 @@
   ![TensorBoad](image_results/Tensorboard.JPG)
 
 - References: 
-- WGAN-GP paper: https://proceedings.neurips.cc/paper/2017/file/892c3b1c6dccd52936e27cbd0ff683d6-Paper.pdf
-- https://github.com/KUASWoodyLIN/TF2-WGAN
+  - WGAN-GP paper: https://proceedings.neurips.cc/paper/2017/file/892c3b1c6dccd52936e27cbd0ff683d6-Paper.pdf
+  - https://github.com/KUASWoodyLIN/TF2-WGAN
 
