@@ -1,4 +1,7 @@
-## Lab 11: Generative Adversarial Network
+# Lab 11: Generative Adversarial Network
+
+## Usage
+
 - Training GAN 
   - train.py
 
