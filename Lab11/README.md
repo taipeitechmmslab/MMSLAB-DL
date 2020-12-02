@@ -1,6 +1,6 @@
 ## Lab 11: Generative Adversarial Network
 - Training GAN 
-  train.py
+  - train.py
 
 - Image Results
   - Iteration 100
