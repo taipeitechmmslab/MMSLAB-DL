@@ -1,4 +1,7 @@
-## Lab 10: Variational Auto-Encoder
+# Lab 10: Variational Auto-Encoder
+
+# Usage
+
 - Training VAE 
   - train.py
 
