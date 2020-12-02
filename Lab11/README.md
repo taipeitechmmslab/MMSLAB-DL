@@ -20,7 +20,7 @@
   ![TensorBoad](image_results/run.JPG)
 
   Go to the link http://localhost:6006/ to see the resutl on TensorBoard:
-  - Image result
+  - result
   ![TensorBoad](image_results/Tensorboard.JPG)
 
 - References: 
