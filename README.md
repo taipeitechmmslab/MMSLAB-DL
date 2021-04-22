@@ -1,5 +1,5 @@
 # Principles and Labs for Deep Learning
-<img src="https://github.com/taipeitechmmslab/MMSLAB-DL/blob/master/Cover.jpg" width="50%" height="50%"/>
+<img src="https://github.com/taipeitechmmslab/MMSLAB-DL/blob/master/Cover_v2.jpg" width="50%" height="50%"/>
 
 ## Requirements
     - Jupyter NoteBook
